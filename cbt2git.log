@@ -1,0 +1,19 @@
+2023-08-06 03:43:46.539174 - Initialized conversion of CBT375
+2023-08-06 03:43:46.645038 - Received CBT.V505.FILE375.PDS from FILE375.XMI 
+2023-08-06 03:43:46.647296 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:43:46.648325 - Found $$AUTHOR.txt (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/$$AUTHOR
+2023-08-06 03:43:46.649438 - Found $$DOCM.txt (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/$$DOCM
+2023-08-06 03:43:46.650349 - Found @FILE375.txt (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/@FILE375
+2023-08-06 03:43:46.651296 - Found SMF06.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF06
+2023-08-06 03:43:46.652264 - Found SMF11.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF11
+2023-08-06 03:43:46.653153 - Found SMF11S.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF11S
+2023-08-06 03:43:46.654027 - Found SMF12.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF12
+2023-08-06 03:43:46.654998 - Found SMF13.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF13
+2023-08-06 03:43:46.655872 - Found SMF24.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF24
+2023-08-06 03:43:46.656784 - Found SMF25.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF25
+2023-08-06 03:43:46.657615 - Found SMF26.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF26
+2023-08-06 03:43:46.658481 - Found SMF26S.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF26S
+2023-08-06 03:43:46.659329 - Found SMF47.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF47
+2023-08-06 03:43:46.660174 - Found SMF49.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF49
+2023-08-06 03:43:46.661069 - Found SMF72.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF72
+2023-08-06 03:43:46.662044 - Found SMF72S.jcl (text/plain) in CBT.V505.FILE375.PDS, moved to PDS/SMF72S
